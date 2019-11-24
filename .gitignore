@@ -1,0 +1,7 @@
+Reacher_Linux*
+.ipynb_checkpoints
+__pycache__
+checkpoint*
+unity-environment.log
+hyper_parameters_tuning.json
+best_scores.out
